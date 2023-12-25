@@ -1,0 +1,68 @@
+[
+  {
+    "label": "Home",
+    "expectedUrl": "https://www.ebay.com",
+    "actualUrl": "https://www.ebay.com/b/Home-Garden/11700/bn_1853126",
+    "status": "failed"
+  },
+  {
+    "label": "Saved",
+    "expectedUrl": "https://www.ebay.com/feed",
+    "actualUrl": "https://www.ebay.com/myb/SavedSearches",
+    "status": "failed"
+  },
+  {
+    "label": "Electronics",
+    "expectedUrl": "https://www.ebay.com/b/Electronics/bn_7000259124",
+    "actualUrl": "https://www.ebay.com/b/Electronics/bn_7000259124",
+    "status": "passed"
+  },
+  {
+    "label": "Motors",
+    "expectedUrl": "https://www.ebay.com/b/Auto-Parts-Accessories/6028/bn_569479",
+    "actualUrl": "https://www.ebay.com/b/Auto-Parts-Accessories/6028/bn_569479",
+    "status": "passed"
+  },
+  {
+    "label": "Fashion",
+    "expectedUrl": "https://www.ebay.com/b/Fashion/bn_7000259856",
+    "actualUrl": "https://www.ebay.com/b/Fashion/bn_7000259856",
+    "status": "passed"
+  },
+  {
+    "label": "Collectibles and Art",
+    "expectedUrl": "https://www.ebay.com/b/Collectibles-Art/bn_7000259855",
+    "actualUrl": "https://www.ebay.com/b/Collectibles-Art/bn_7000259855",
+    "status": "passed"
+  },
+  {
+    "label": "Sports",
+    "expectedUrl": "https://www.ebay.com/b/Sporting-Goods/888/bn_1865031",
+    "actualUrl": "https://www.ebay.com/b/Sports-Memorabilia-Fan-Shop-Sports-Cards/64482/bn_1857919",
+    "status": "failed"
+  },
+  {
+    "label": "Health & Beauty",
+    "expectedUrl": "https://www.ebay.com/b/Health-Beauty/26395/bn_1865479",
+    "actualUrl": "https://www.ebay.com/b/Health-Beauty/26395/bn_1865479",
+    "status": "passed"
+  },
+  {
+    "label": "Industrial equipment",
+    "expectedUrl": "https://www.ebay.com/b/Business-Industrial/12576/bn_1853744",
+    "actualUrl": "https://www.ebay.com/b/Business-Industrial/12576/bn_1853744",
+    "status": "passed"
+  },
+  {
+    "label": "Home & Garden",
+    "expectedUrl": "https://www.ebay.com/b/Home-Garden/11700/bn_1853126",
+    "actualUrl": "https://www.ebay.com/b/Home-Garden/11700/bn_1853126",
+    "status": "passed"
+  },
+  {
+    "label": "Deals",
+    "expectedUrl": "https://www.ebay.com/globaldeals",
+    "actualUrl": "https://www.ebay.com/globaldeals",
+    "status": "passed"
+  }
+]
